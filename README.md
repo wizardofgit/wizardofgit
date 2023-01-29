@@ -5,7 +5,8 @@
 - 👀 Looking forward to working on some interesting projects! 
 
 I'm familiar with these python modules: numpy, pyplot, flask, request, paho.mqtt, scipy, scikit-learn.
-I also have some experience with C++ (though haven't used it recently).
+I also have some experience with C++ (though haven't used it recently) and HTML (mainly forms).
+I've also worked with a database (SQL queries) as well as created my own simple one.
 
 <!---
 wizardofgit/wizardofgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
