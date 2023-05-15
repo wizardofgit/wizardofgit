@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 - 👀 Looking forward to working on some interesting projects! 
 
-I'm familiar with these python modules: numpy, pyplot, flask, request, paho.mqtt, scipy, scikit-learn, json and more.
+I'm familiar with these python modules: numpy, pyplot, pandas, flask, request, paho.mqtt, scipy, scikit-learn, json and more.
 I also have some experience with C++ (though haven't used it recently) and HTML (mainly forms).
 I've also worked with a database (SQL queries) as well as created my own simple one.
 
