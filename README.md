@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wizardofgit!
--  I’m interested in data science and IoT
+-  I’m interested in software development and data science
 - 🎓Currently studying Systems Engineering at Wrocław University of Science and Technology
 - 🌱 I’m currently learning Python
 - 👀 Looking forward to working on some interesting projects! 
