@@ -8,8 +8,6 @@ I'm familiar with these Python modules: numpy, pyplot, pandas, flask, request, p
 I also have some experience with C++ (though I haven't used it recently) and HTML (mainly forms).
 I've also worked with a database (SQL queries) as well as created my own simple one.
 
-I'm also learning Java and C++.
-
 <!---
 wizardofgit/wizardofgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
